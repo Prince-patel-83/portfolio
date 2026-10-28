@@ -107,7 +107,7 @@ function Hero() {
           <div className="relative h-72 w-72 overflow-hidden rounded-3xl border border-[var(--border)] bg-[var(--card)] p-2 shadow-2xl sm:h-80 sm:w-80 lg:h-96 lg:w-96">
 
             <img
-              src="/profile.jpeg"
+              src="/profile.jpg"
               alt="Prince Patel"
               className="h-full w-full rounded-2xl object-cover"
             />

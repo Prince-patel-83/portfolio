@@ -13,20 +13,10 @@ A responsive personal portfolio showcasing my work and experience as a full-stac
 
 ## Built with
 
+- Html
+- css
+- JavaScript
 - React 19
 - Vite
 - Tailwind CSS 4
 - React Icons
-
-## Project structure
-```text
-public/                 Static files served from the site root
-  profile.jpeg          Profile photo
-  resume.pdf            Resume download (see note below)
-src/
-  components/           Shared UI components, including the navbar
-  data/portfolioData.js Portfolio content: profile, skills, projects, and more
-  pages/                 Portfolio sections
-  App.jsx                Page composition and theme persistence
-  index.css              Global styles, theme variables, and Tailwind CSS
-```
